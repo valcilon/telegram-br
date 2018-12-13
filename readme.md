@@ -85,6 +85,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [GRUPY-SP](https://telegram.me/grupysaopaulo)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PyCoding](https://telegram.me/PyCoding)
+- [PyData Belo Horizonte](https://t.me/pydatabh)
+- [PyData BSB](https://t.me/pydatabsb)
 - [Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg)
 - [PyKivy BR](https://t.me/pykivy)
 - [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
@@ -94,6 +96,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [Python Joinville](https://t.me/pythonjoinville)
 - [Python Rio](https://t.me/PythonRio)
 - [Python Sul](https://t.me/PythonSulBR)
+- [QT Brasil](https://t.me/qtbrasil)
+- [ScyPy - Brasil](https://t.me/scipy_brasil)
 - [web2py](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
 
 ### RUST
